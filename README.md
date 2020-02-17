@@ -1,7 +1,6 @@
 Humanscoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/humanscoin-project/humanscoin.svg?branch=master)](https://travis-ci.org/humanscoin-project/humanscoin)
 
 https://humanscoin.org
 
