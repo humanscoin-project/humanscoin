@@ -8,8 +8,7 @@ and remove old versions as necessary.
 
 The seeds compiled into the release are created from poolers's DNS seed data, like this:
 
-    curl -s https://www.humanscoinpool.org/seeds.txt > seeds_main.txt
-    python3 makeseeds.py < seeds_main.txt > nodes_main.txt
+    curl -s https://www.humanscoin.org/seeds.txt > nodes_main.txt
     python3 generate-seeds.py . > ../../src/chainparamsseeds.h
 
 ## Dependencies
